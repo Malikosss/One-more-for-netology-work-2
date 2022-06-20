@@ -10,3 +10,9 @@
 * Высокая скорость поиска
 * Низкая цена
 
+Ниже пример кода из нашего приложения:
+
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
